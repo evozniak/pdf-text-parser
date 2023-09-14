@@ -1,0 +1,14 @@
+{
+  "name": "pdf-text-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Eduardo Vozniak",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "runa": "node index.js"
+  },
+  "dependencies": {
+    "pdf2json": "^3.0.4"
+  }
+}
